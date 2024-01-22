@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Hyundai",
+        "location": "Seoul, South Korea",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hyundai_logo.svg/1280px-Hyundai_logo.svg.png"
+    },
+    {
+        "name": "BMW",
+        "location": "Munich, Germany",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/1280px-BMW.svg.png"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "location": "Stuttgart, Germany",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mercedes-Benz_logo_%28simple%29.svg/1280px-Mercedes-Benz_logo_%28simple%29.svg.png"
+    },
+    {
+        "name": "Audi",
+        "location": "Ingolstadt, Germany",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Audi-Logo_2016.svg/1280px-Audi-Logo_2016.svg.png"
+    },
+    {
+        "name": "Volkswagen",
+        "location": "Wolfsburg, Germany",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Volkswagen_logo_2012.svg/1280px-Volkswagen_logo_2012.svg.png"
+    },
+    {
+        "name": "Porsche",
+        "location": "Stuttgart, Germany",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Porsche_logo.svg/1280px-Porsche_logo.svg.png"
+    },
+    {
+        "name": "Ferrari",
+        "location": "Maranello, Italy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ferrari_S.p.A._logo.svg/1280px-Ferrari_S.p.A._logo.svg.png"
+    },
+    {
+        "name": "Lamborghini",
+        "location": "Sant'Agata Bolognese, Italy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lamborghini_Logo.svg/1280px-Lamborghini_Logo.svg.png"
+    },
+    {
+        "name": "Maserati",
+        "location": "Modena, Italy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maserati_Logo.svg/1280px-Maserati_Logo.svg.png"
+    },
+    {
+        "name": "Alfa Romeo",
+        "location": "Turin, Italy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alfa_Romeo_logo.svg/1280px-Alfa_Romeo_logo.svg.png
+    }
+]

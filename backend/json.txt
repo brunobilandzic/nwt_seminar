@@ -1,0 +1,18 @@
+[
+  '{{repeat(5)}}',
+  {
+    username: '{{lorem(1, "words")}}',
+    password:  ''
+    
+  }
+]
+
+[
+  '{{repeat(25)}}',
+  {
+    name: '{{lorem(1, "words")}}',
+    desctiption:  '{{lorem(10, "words")}}',
+    image: 'https://picsum.photos/200/300"},
+    price: '{{integer(100, 1000)}}'
+  }
+]
